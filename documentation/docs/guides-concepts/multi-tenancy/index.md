@@ -10,7 +10,7 @@ Multitenancy refers to a kind of architecture where a single instance of softwar
 
 ## Implementing Multitenancy in Refine
 
-While there are many ways to implement multi tenant features, we'll implement a route based approach in the following sections. While your m implementation may differ, the concepts will be similar and the approach will be tweakable to your needs.
+While there are many ways to implement multi tenant features, we'll implement a route based approach in the following sections. While your implementation may differ, the concepts will be similar and the approach will be tweakable to your needs.
 
 ### Configuring Multi-tenant Routes
 
